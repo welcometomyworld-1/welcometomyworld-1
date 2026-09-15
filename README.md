@@ -94,6 +94,7 @@ A full-stack web app (<b>Django + React + Gemini/GPT</b>) that:
 <li>Delivers instant hiring-readiness feedback</li>
 </ul>
 🔗 <a href="https://github.com/welcometomyworld-1">View on GitHub</a>
+   <a href="https://tailorwala.duckdns.org/">Live Demo</a>
 </details>
 
 <br>
